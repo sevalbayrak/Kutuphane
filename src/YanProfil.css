@@ -1,0 +1,33 @@
+.resim{
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    display: block;
+}
+.tab{
+
+    margin-top: -200px;
+    
+     width: 800px;
+    margin-left:21%;
+       
+    }
+    .comp{
+        display: flex;
+        flex-direction:inherit;
+        margin-left: 5px;
+       padding-top: 2px;
+       padding-bottom: 3px;
+     
+    
+      
+    }
+    .resims{
+        border-radius: 50%;
+        margin-right: 6px;
+    }
+    .h4{
+        margin-top: 8px;
+    }
+    

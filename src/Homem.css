@@ -1,0 +1,48 @@
+.hepsi{
+
+    display: flex;
+    align-items: center;
+   padding: 20px;
+   margin: 20px;
+    flex-direction: column;
+  
+}
+.butun{
+    
+   text-align: center;
+   width: 500px;
+
+   
+    border-radius: 20px;
+    height: 400px ;
+    padding: 20px;
+    
+
+}
+
+
+.link{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    width: 80px;
+    padding: 10px;
+    align-items: center;
+ color: aliceblue;
+ overflow: hidden;
+ text-decoration: none;
+    background-color: rgb(25, 118, 210);
+    border-radius: 10px;
+    
+}
+.link:hover{
+
+opacity: 0.8;
+}
+.greybackgrond{
+    background-color: gray;
+}
+.beyaz{
+    background-color: aliceblue;
+}
+
